@@ -1,3 +1,5 @@
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhixiaoqiang)](https://github.com/anuraghazra/github-readme-stats)
+
 # GitHub Activity in Readme
 
 Updates `README.md` with the recent GitHub activity of a user.
